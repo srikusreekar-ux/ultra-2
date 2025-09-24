@@ -1,7 +1,8 @@
 title: "Sreekar Trail Portfolio"
 description: "Trail running adventures, races, and stories"
-baseurl: ""
-url: "https://yourusername.github.io"
+baseurl: "/ultra-2"
+url: "https://srikusreekar-ux.github.io"
+
 
 theme: minima
 plugins:
